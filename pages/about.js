@@ -8,6 +8,10 @@ const about = () => (
         <h1>
             About page
         </h1>
+        <p>
+            This app uses nextJs and the coindesk API to fetch the prices of bitcoin in different currency.
+            The Fetch is done using isomorphic-unfetch package.
+        </p>
     </div>
     </Layout>
     
